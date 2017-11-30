@@ -2,7 +2,8 @@
 layout: post
 title:  "Data Science Notebooks"
 subtitle: "Python, NumPy, Pandas"
-date:   2017-01-28 15:39:40
+description: "Data analysis for my statistics class using Jupyter notebooks."
+date:   2017-10-07 15:39:40
 author: "Nick"
 avatar: "img/nick.png"
 img: pandas/pandas.png
@@ -36,9 +37,9 @@ For statistics class, I used various online datasets and cleaned and analyzed th
 - Calculated confidence intervals for download speeds
 
 
-![Picture 1](img/pandas/pandas1.png)
+![Picture 1]({{site.baseurl}}/assets/img/pandas/pandas1.png)
 
-![Picture 1](img/pandas/pandas2.png)
+![Picture 1]({{site.baseurl}}/assets/img/pandas/pandas2.png)
 
 
 

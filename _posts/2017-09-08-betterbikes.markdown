@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Bike Lane Tracking App"
+title:  "Bike Lane Tracking Platform"
+description: "🏆 Winning hackathon project. An application to keep bike lanes clear and safe."
 subtitle: "OpenCV, Python, React"
-date:   2017-09-08 15:39:40
+date:   2017-10-08 15:39:40
 author: "Nick"
 avatar: "img/nick.png"
-img: betterbikes/team.jpg
+img: betterbikes/car.jpg
 ---
 
 # Winner of Best Transportation Hack 🏆
@@ -15,7 +16,7 @@ img: betterbikes/team.jpg
 
 While attending THacks Hackathon at UofT, our team created a computer vision platform for mobile that automatically detects and reports when cars are parked in the bike lane.
 
-![Picture 1](/img/betterbikes/car.jpg)
+![Picture 1]({{site.baseurl}}/assets/img/betterbikes/team.jpg)
 
 ## My Contributions 
 - I had the initial idea for the project

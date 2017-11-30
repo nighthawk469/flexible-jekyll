@@ -1,10 +1,12 @@
 ---
 layout: post
 title:  "Ford Software Engineer Intern"
+description: "I worked at Ford Motor Company on the Infotainment System team."
 subtitle: "Python, Javascript"
-date:   2017-05-07 15:39:40
+date:   2017-11-07 15:39:40
 author: "Nick"
 avatar: "img/nick.png"
+keywords: Python, Javascript
 img: ford/infotainment.jpg
 ---
 
@@ -16,4 +18,4 @@ img: ford/infotainment.jpg
 - Built web tools in Python and Javascript to analyze data from vehicle hardware.
 - Implemented an automatic log parsing tool that saved engineers 15+ minutes everyday.
 
-![Picture 1](img/ford/building.jpg)
+![Picture 1]({{site.baseurl}}/assets/img/ford/building.jpg)

@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Data Science Notebooks"
+subtitle: "Python, NumPy, Pandas"
+date:   2017-01-28 15:39:40
+author: "Nick"
+avatar: "img/nick.png"
+img: pandas/pandas.png
+---
+
+# Description
+--------------
+
+For statistics class, I used various online datasets and cleaned and analyzed them using NumPy/Pandas. I used Pandas to analyze things like confidence intervals and probability, and then afterwards visualized the data findings using Matplotlib.
+
+
+# Examples
+--------------
+
+[Pandas Notebook 1 - Airbnb Data](https://github.com/nighthawk469/A1_statistics_ipython/blob/master/A1%20Airbnb%20Data.ipynb)
+
+- Used the data in order to see what percentage of user sessions result in an airbnb booking
+- Found what day of the week users are most active
+- Determined the distribution of devices users use to access the site
+
+[Pandas Notebook 2 - IGN Game Scores](https://github.com/nighthawk469/A2-statistics-ign-game-data/blob/master/A2%20IGN%20Game%20Data.ipynb)
+
+- Used a histogram to show the frequency distribution of IGN game scores
+- Determined the most popular genres and platforms
+- Found probability of any game having score over 8/10
+
+[Pandas Notebook 3 - iPhone vs Android Speedtest](https://github.com/nighthawk469/A5-statistics-phone-speed/blob/master/A5.ipynb)
+
+- Created graphical distribution of iOS and Android manufacturers
+- Calculated averages of a many country's internet speeds
+- Calculated confidence intervals for download speeds
+
+
+![Picture 1](img/pandas/pandas1.png)
+
+![Picture 1](img/pandas/pandas2.png)
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Ford Software Engineer Intern"
+subtitle: "Python, Javascript"
+date:   2017-05-07 15:39:40
+author: "Nick"
+avatar: "img/nick.png"
+img: ford/infotainment.jpg
+---
+
+## Specific details protected under NDA
+--------------
+
+### Summary
+- Joined the In-Vehicle Infotainment Product Development team in Oakville, ON.
+- Built web tools in Python and Javascript to analyze data from vehicle hardware.
+- Implemented an automatic log parsing tool that saved engineers 15+ minutes everyday.
+
+![Picture 1](img/ford/building.jpg)

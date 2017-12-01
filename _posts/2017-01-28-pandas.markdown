@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science Notebooks"
-subtitle: "Python, NumPy, Pandas"
+subtitle: "Python, NumPy, Pandas, Jupyter"
 description: "Data analysis for my statistics class using Jupyter notebooks."
 date:   2017-10-07 15:39:40
 author: "Nick"

@@ -33,7 +33,7 @@ For statistics class, I used various online datasets and cleaned and analyzed th
 [Pandas Notebook 3 - iPhone vs Android Speedtest](https://github.com/nighthawk469/A5-statistics-phone-speed/blob/master/A5.ipynb)
 
 - Created graphical distribution of iOS and Android manufacturers
-- Calculated averages of a many country's internet speeds
+- Calculated averages of different countries internet speeds
 - Calculated confidence intervals for download speeds
 
 

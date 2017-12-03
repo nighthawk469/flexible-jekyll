@@ -11,11 +11,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Nick Crawford # add your name
 author-img: nick.png # add your photo
-about-author: I am a curious software engineer. Interested in Python, Web, and Mobile and more. # add description
+about-author: Driven and curious software engineer. Incredibly interested in Python, Web, and Mobile and more. # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: nighthawk469 # add your Github handle
-linkedin: nick-crawford-1ba884116 # add your Linkedin handle
+linkedin: nickdcrawford # add your Linkedin handle
 email: nick.crawford1234@gmail.com # add your Email address
 
 # Disqus

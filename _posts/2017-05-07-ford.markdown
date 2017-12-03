@@ -15,7 +15,10 @@ img: ford/infotainment.jpg
 
 ### Summary
 - Joined the In-Vehicle Infotainment Product Development team in Oakville, ON.
-- Built web tools in Python and Javascript to analyze data from vehicle hardware.
-- Implemented an automatic log parsing tool that saved engineers 15+ minutes everyday.
+- Created web tools used for working with vehicle performance data, using Python and Javascript.
+- Saved engineers 30+ minutes everyday by replacing a manual data entry system with an automatic log parsing tool.
+- Created a vehicle performance analysis tool that was used in manager update meetings every week.
+- Iterated projects quickly by utilizing the Scrum project management methodology.
+- Improved product discussion by implementing a commenting system for the data analytics tools.
 
 ![Picture 1]({{site.baseurl}}/assets/img/ford/building.jpg)

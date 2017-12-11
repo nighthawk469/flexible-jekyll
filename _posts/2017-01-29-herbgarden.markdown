@@ -2,7 +2,7 @@
 layout: post
 title:  "Smart Herb Garden"
 subtitle: "Arduino, Python, Plotly"
-date:   2017-10-29 15:39:40
+date:   2017-10-26 15:39:40
 author: "Nick"
 description: "A self-watering herb garden system built by me for my school club." 
 img: herbgarden/herbgarden2.png

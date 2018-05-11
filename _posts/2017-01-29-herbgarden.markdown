@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Smart Herb Garden"
-subtitle: "Arduino, Python, Plotly"
-date:   2017-10-06 15:39:40
+title:  "Self-Watering Herb Garden"
+subtitle: "Raspberry Pi/Arduino project"
+date:   2017-10-09 15:39:40
 author: "Nick"
-description: "A self-watering herb garden system built by me for my school club." 
+description: "Created a self watering garden by developing Arduino scripts to control sensors, Python scripts to parse/plot sensor data and by configuring a Raspberry Pi Linux system." 
 img: herbgarden/herbgarden2.png
 ---
+
+[Github Repo Link](https://github.com/nighthawk469/herb_garden_system)
 
 # Overview
 Created by myself for my school club.
@@ -19,10 +21,7 @@ A picture of my website which I made to show live soil moisture updates.
 
 # Description
 
-- Created entire self watering herb garden system by **myself** for my school club.
-- Engineered Arduino circuit that uses a moisture sensor to measure soil data. When the soil is dry, it activates a water pump to water the herbs
-- Created website and used Plotly graphing library to display soil moisture data to spectators
-- Configured Raspberry Pi to run Python program on system startup to save sensor data to a file and upload that file online
+Created a self watering garden by developing Arduino scripts to control sensors, Python scripts to parse/plot sensor data and by configuring a Raspberry Pi Linux system.
 
 
 

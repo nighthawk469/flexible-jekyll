@@ -1,24 +1,26 @@
 ---
 layout: post
-title:  "Unity Virtual Pet"
-subtitle: "Unity, C#, Blender, Weather Network API"
+title:  "Unity Fitness Game"
+subtitle: "A virtual pet that motivates you to stay fit"
 date:   2017-10-07 16:39:40
 author: "Nick"
-description: "A virtual pet that motivates you to stay fit." 
+description: "Coded Unity game logic and API in C#, created 3D animations in Blender, and created particle systems in Unity." 
 img: pocketpup/pocketpup-title.png
 ---
+
+[Github link](https://github.com/nighthawk469/HackWestern-PocketPup)
+
+## My Contributions
+- I came up with the original concept
+- Coded Unity game logic and API in C#.
+- Created particle systems in Unity.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YRXn0Yf0LOA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Overview
 
 PocketPup is a virtual pet whose needs change according to the weather (in real time, thanks to The Weather Network's cool API). It encourages players to perform real-world physical tasks to ensure that their virtual pet is happy and in good health. Made for HackWestern 2017 at Western University.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YRXn0Yf0LOA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-
-## My Contributions
-- I came up with the original concept
-- I brought the pieces of the project together by using C# to program game logic, animations and http requests.
-- Helped to make sure everyone was working on a necessary task
 
 ![Picture 1]({{site.baseurl}}/assets/img/pocketpup/group.jpg)
 Our team

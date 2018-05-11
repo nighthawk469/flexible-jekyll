@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Data Science Notebooks"
-subtitle: "Python, NumPy, Pandas, Jupyter"
-description: "Data analysis for my statistics class using Jupyter notebooks."
+title:  "Python Data Science Notebooks"
+subtitle: 
+description: "Created data analysis jupyter notebooks in Python using Pandas, NumPy and Matplotlib."
 date:   2017-10-07 15:39:40
 author: "Nick"
 avatar: "img/nick.png"

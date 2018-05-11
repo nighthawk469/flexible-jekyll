@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mario iOS Game"
-subtitle: "Swift, SpriteKit"
-description: "iOS Mario clone using Apple game engine"
+subtitle: 
+description: "Created game in SpriteKit with Swift. Wrote the code and programmed particle system."
 date:   2017-01-25 15:39:40
 author: "Nick"
 avatar: "img/nick.png"

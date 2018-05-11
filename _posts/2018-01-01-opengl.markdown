@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Real-Time Rendering Engine"
+subtitle: 
+description: "Created real-time rendering engine in C++ and OpenGL using Blinn-Phong shading. Implemented collision detection between AABB and rays."
+date:   2018-01-01 15:39:40
+author: "Nick"
+img: "opengl/bokoblin.png"
+---
+
+[Github Repo Link](https://github.com/nighthawk469/Real-Time-Rendering-Engine/tree/master)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/foFQxmmmlmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

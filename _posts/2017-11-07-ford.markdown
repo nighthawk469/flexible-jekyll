@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ford Software Engineer Intern"
-description: "I worked at Ford Motor Company on the Infotainment System team."
-subtitle: "Python, Javascript"
+title:  "Ford Software Engineer Intern 🎓"
+description: "Created 5 web tools for analyzing and visualizing Ford vehicle performance data using Python and Javascript."
+subtitle: 
 date:   2017-11-07 15:39:40
 author: "Nick"
 avatar: "img/nick.png"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Address Book App"
 subtitle: "Android, SQLite"
-description: "A SQL driven Android app for storing contacts."
+description: "Created an SQL driven Android app for storing contacts."
 date:   2016-10-1 15:39:40
 author: "Nick"
 img: "addressbook/androidcalendar.png"

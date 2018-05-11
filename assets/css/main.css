@@ -1139,7 +1139,7 @@ footer .copyright {
   font-size: 15px;
   font-weight: bold;
   display: inline-block;
-  margin: 0 0 15px;
+  margin: 0 0 0px;
 }
 
 .post .post-content .post-title {
@@ -1155,7 +1155,8 @@ footer .copyright {
 }
 
 .post .post-content p {
-  margin-top: 0;
+  margin-top: 15px;
+  font-size: 15px;
 }
 
 a.older-posts, a.newer-posts {

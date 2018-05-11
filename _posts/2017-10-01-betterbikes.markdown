@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Bike Lane Tracking Platform"
-description: "🏆 Winning hackathon project. An application to keep bike lanes clear and safe."
-subtitle: "OpenCV, Python, React"
-date:   2017-10-08 15:39:40
+title:  "OpenCV Vehicle Recognition Model"
+description: "Built a real-time image recognition model in OpenCV using Haar Cascades"
+subtitle: "🏆 Winning hackathon project"
+date:   2017-11-07 15:39:40
 author: "Nick"
 avatar: "img/nick.png"
 img: betterbikes/car.jpg
 ---
 
-# Winner of Best Transportation Hack 🏆
---------------
+[Github link](https://github.com/nighthawk469/betterbikelanes-opencv)
 
 ### Summary
 

@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "Pokemon-Go Inspired Social Network"
-subtitle: "Unity, C#, ARCore"
-description: "🏆 Winning hackathon project. Social network that lets you leave messages around the world"
+title:  "Memory Hunters"
+subtitle: "🏆 Winning hackathon project. Pokemon-Go Inspired Social Network"
+description: "Created Unity application with C#, implemented Google ARCore for AR feature"
 date:   2017-10-01 15:39:40
 author: "Nick"
 img: memoryhunters/hunters.png
 ---
 
-# Winner of Best Adventure Hack 🏆
---------------
+## My Contributions 
+- I had the initial idea for the project
+- I did C# logic programming in Unity
+- Integrated ARCore into the Unity scene
 
 ### Summary
 While attending Electric City Hackathon at Trent University, our team created a social network that lets users post messages at real locations throughout the world for other people to read. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9-fh1ss64Sg" frameborder="0" allowfullscreen></iframe>
 
-## My Contributions 
-- I had the initial idea for the project
-- I did C# logic programming in Unity
-- Integrated ARCore into the Unity scene
 
 ![Picture 1]({{site.baseurl}}/assets/img/memoryhunters/winners.png)
 

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "QNX Software Systems Intern 🎓"
+subtitle: "Autonomous Vehicle Team"
+description: "Currently working on the Autonomous Vehicle team as a graphics developer, creating a visualization engine in OpenGL ES."
+date:   2018-05-01 15:39:40
+author: "Nick"
+img: "qnx/car.jpg"
+---
+

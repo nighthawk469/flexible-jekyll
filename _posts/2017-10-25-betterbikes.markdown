@@ -3,7 +3,7 @@ layout: post
 title:  "OpenCV Vehicle Recognition Model"
 description: "Built a real-time image recognition model in OpenCV using Haar Cascades"
 subtitle: "🏆 Winning hackathon project"
-date:   2017-11-07 15:39:40
+date:   2017-10-25 15:39:40
 author: "Nick"
 avatar: "img/nick.png"
 img: betterbikes/car.jpg

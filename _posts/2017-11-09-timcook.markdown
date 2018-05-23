@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tim Cook Visiting Sheridan"
+description: "On January 23rd 2018, Tim Cook the CEO of Apple visited Sheridan College to see the innovative mobile application projects us 4th year students have been working on."
+subtitle: 
+date:   2017-11-09 15:39:40
+author: "Nick"
+avatar: "img/nick.png"
+keywords: Python, Javascript
+img: timcook/tim.jpg
+---
+
+On January 23rd 2018, Tim Cook the CEO of Apple visited Sheridan College to see the innovative mobile application projects us 4th year students have been working on in the Sheridan Computer Science - Mobile Computing program.

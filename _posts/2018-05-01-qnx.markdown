@@ -2,7 +2,7 @@
 layout: post
 title:  "Nvidia Intern 🎓"
 subtitle: "Autonomous Vehicle Team"
-description: "Currently working on the Autonomous Vehicle team as a graphics developer, working on the 3D simulation engine."
+description: "Currently working on the Autonomous Vehicle team as a graphics developer, working on the 3D simulation engine. "
 date:   2018-05-01 15:39:40
 author: "Nick"
 img: "qnx/nvidia.jpg"

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "QNX Software Systems Intern 🎓"
+title:  "Nvidia Intern 🎓"
 subtitle: "Autonomous Vehicle Team"
-description: "Currently working on the Autonomous Vehicle team as a graphics developer, creating a visualization engine in OpenGL ES."
+description: "Currently working on the Autonomous Vehicle team as a graphics developer, working on the 3D simulation engine."
 date:   2018-05-01 15:39:40
 author: "Nick"
-img: "qnx/car.jpg"
+img: "qnx/nvidia.jpg"
 ---
 

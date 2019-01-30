@@ -8,8 +8,7 @@ author: "Nick"
 img: "qnx/nvidia.jpg"
 ---
 
-![Picture 1]({{site.baseurl}}/assets/img/qnx/drivesim1.png)
-
-
-![Picture 2]({{site.baseurl}}/assets/img/qnx/drivesim2.png)
+![Picture 1]({{site.baseurl}}/assets/img/qnx/drivesim0.png)
 Using Unreal Engine 4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DXsLDyiONV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Nvidia Intern 🎓"
-subtitle: "Autonomous Vehicle Team"
-description: "Previously on the Autonomous Vehicle team working on the 3D simulation engine. "
-date:   2018-05-01 15:39:40
+title:  "QNX Software Systems Intern"
+subtitle: 
+description: "On the Autonomous Vehicle team where I developed a 3D engine in OpenGL ES. "
+date:   2018-03-01 15:39:40
 author: "Nick"
-img: "qnx/nvidia.jpg"
+img: "qnx/car.jpg"
 ---
 
-![Picture 1]({{site.baseurl}}/assets/img/qnx/drivesim0.png)
-Using Unreal Engine 4
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DXsLDyiONV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

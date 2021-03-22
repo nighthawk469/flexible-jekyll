@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Nvidia Intern"
+subtitle: 
+description: "Worked on the self driving simulation team."
+date:   2018-05-01 15:39:40
+author: "Nick"
+img: "nvidia/black.jpg"
+---
+
+I developed tools for working with a self driving simulator. Python, C++, and Unreal Engine 4.
+
+![Picture 1]({{site.baseurl}}/assets/img/nvidia/drivesim0.png)
+
+I also solely developed an app that was used at GTC 2019. Developed in Unity Engine and used to control the parameters of the simulator. 
+
+![Picture 1]({{site.baseurl}}/assets/img/nvidia/tablet.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DXsLDyiONV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

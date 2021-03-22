@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Self-Watering Herb Garden"
-subtitle: "Raspberry Pi/Arduino project"
-date:   2017-10-09 15:39:40
+subtitle: 
+date:   2018-02-02 15:39:40
 author: "Nick"
 description: "Created a self watering garden by developing Arduino scripts to control sensors, Python scripts to parse/plot sensor data and by configuring a Raspberry Pi Linux system." 
 img: herbgarden/herbgarden2.png

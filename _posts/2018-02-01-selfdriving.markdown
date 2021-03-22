@@ -3,7 +3,7 @@ layout: post
 title:  "Matlab Self Driving Car"
 subtitle: 
 description: "Created a self driving car by training a convolutional neural network in Matlab and writing Python scripts to control the motion of an RC car."
-date:   2018-02-01 15:39:40
+date:   2018-02-10 15:39:40
 author: "Nick"
 img: "selfdriving/selfdriving.jpg"
 ---

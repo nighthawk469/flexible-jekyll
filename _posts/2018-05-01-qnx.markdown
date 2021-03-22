@@ -13,12 +13,7 @@ I developed an OpenGL ES rendering engine that renders both sensor data from a v
 
 See below.
 
-![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){width="50%"}
 
-{% comment %} 
-	Define image size example
-	
-	https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
-	
-	![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){:width="300px"}
-{% endcomment %} 
+![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){:width="50%"}
+
+<img src="/assets/img/qnx/3d.jpg" alt="drawing" width="200"/>

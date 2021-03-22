@@ -5,6 +5,20 @@ subtitle:
 description: "On the Autonomous Vehicle team where I developed a 3D engine in OpenGL ES. "
 date:   2018-03-01 15:39:40
 author: "Nick"
-img: "qnx/car.jpg"
+img: "qnx/3d3.jpg"
 ---
 
+# Overview
+I developed an OpenGL ES rendering engine that renders both sensor data from a vehicle, as well as road data.
+
+See below.
+
+![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){width="50%"}
+
+{% comment %} 
+	Define image size example
+	
+	https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown
+	
+	![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){:width="300px"}
+{% endcomment %} 

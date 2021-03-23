@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-Watering Herb Garden"
+title:  "Self-Watering Arduino Herb Garden"
 subtitle: 
 date:   2018-02-02 15:39:40
 author: "Nick"

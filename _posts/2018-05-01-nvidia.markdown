@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "Nvidia Intern"
+title:  "Nvidia Intern. Simulation Team."
 subtitle: 
-description: "Worked on the self driving simulation team."
+description: "Worked on the self driving simulation team. Python, C++, Unreal Engine."
 date:   2018-05-01 15:39:40
 author: "Nick"
 img: "nvidia/black.jpg"
 ---
 
+# Summary
 I developed tools for working with a self driving simulator. Python, C++, and Unreal Engine 4.
 
 ![Picture 1]({{site.baseurl}}/assets/img/nvidia/drivesim0.png)
 
+# GTC 2019 App
 I also solely developed an app that was used at GTC 2019. Developed in Unity Engine and used to control the parameters of the simulator. 
 
 ![Picture 1]({{site.baseurl}}/assets/img/nvidia/tablet.png)

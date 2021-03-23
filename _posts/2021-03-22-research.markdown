@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Undergraduate Thesis: Recommender Systems in PyTorch"
+subtitle: 
+description: "Used PyTorch to develop novel neural network based recommender system for video games."
+date:   2021-03-22 15:39:40
+author: "Nick"
+img: "research/tsne.png"
+---
+
+# Overview
+
+I developed a unique recommender system model in PyTorch to give video game recommendations based on an input video game.
+
+After our model is trained, each video game is given a vector value. We use nearest neighbor search to find nearby vectors which are recommendations.
+
+# Vector Visualization
+
+We can plot our video game vectors and see what items are close by. We can note that the games are of similar genre.
+
+![Picture 1]({{site.baseurl}}/assets/img/research/vectors.png)
+
+# Recommendation Example
+
+In the image below we are given a list of recommendations for the game "The Last of Us Remastered". We can see our model provides recommendations of similar genre and gameplay.
+
+![Picture 1]({{site.baseurl}}/assets/img/research/recommendations.png)
+
+# Full Thesis
+Link to full thesis
+
+<https://source.sheridancollege.ca/student_work_fast_applied_computing_theses/4/>

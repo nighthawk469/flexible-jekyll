@@ -14,6 +14,6 @@ I developed an OpenGL ES rendering engine that renders both sensor data from a v
 See below.
 
 
-![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg){:width="50%"}
+![Picture 1]({{site.baseurl}}/assets/img/qnx/3d.jpg)
 
-<img src="/assets/img/qnx/3d.jpg" alt="drawing" width="200"/>
+![Picture 1]({{site.baseurl}}/assets/img/qnx/car.jpg)
